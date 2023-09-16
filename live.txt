@@ -672,11 +672,8 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-欢迎网友,#genre#
-2002年的第一场雪,https://vd4.bdstatic.com/mda-peb8kr7seeh4w5su/hd/cae_h264/1683947071269600562/mda-peb8kr7seeh4w5su.mp4
 =投稿=,#genre#
-2002年的第一场雪,https://vd4.bdstatic.com/mda-peb8kr7seeh4w5su/hd/cae_h264/1683947071269600562/mda-peb8kr7seeh4w5su.mp4
-公众号↙,#genre#
-2002年的第一场雪,https://vd4.bdstatic.com/mda-peb8kr7seeh4w5su/hd/cae_h264/1683947071269600562/mda-peb8kr7seeh4w5su.mp4
-BUG练习生,#genre#
-2002年的第一场雪,https://vd4.bdstatic.com/mda-peb8kr7seeh4w5su/hd/cae_h264/1683947071269600562/mda-peb8kr7seeh4w5su.mp4
+测试=雷歌=,https://alimov2.a.kwimgs.com/upic/2023/05/17/10/BMjAyMzA1MTcxMDAwNDZfNTIzMzc1NDc3XzEwMzI2MjE1NTQyNF8wXzM=_b_B9c592ab2d1ce4027530f9efaedce715b.mp4
+欢迎网友投稿,https://alimov2.a.kwimgs.com/upic/2023/05/17/10/BMjAyMzA1MTcxMDAwNDZfNTIzMzc1NDc3XzEwMzI2MjE1NTQyNF8wXzM=_b_B9c592ab2d1ce4027530f9efaedce715b.mp4
+联系公众号↙,https://alimov2.a.kwimgs.com/upic/2023/05/17/10/BMjAyMzA1MTcxMDAwNDZfNTIzMzc1NDc3XzEwMzI2MjE1NTQyNF8wXzM=_b_B9c592ab2d1ce4027530f9efaedce715b.mp4
+BUG练习生,https://alimov2.a.kwimgs.com/upic/2023/05/17/10/BMjAyMzA1MTcxMDAwNDZfNTIzMzc1NDc3XzEwMzI2MjE1NTQyNF8wXzM=_b_B9c592ab2d1ce4027530f9efaedce715b.mp4?clientCacheKey=3xp9w6vb78gtvre_b.mp4&tt=b&di=778f3c80&bp=10000
