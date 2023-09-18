@@ -1,236 +1,236 @@
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://cntv.sbs/tv?auth=2309081833&id=cctv1
+https://cntv.sbs/tv?auth=230918&amp;id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-https://cntv.sbs/tv?auth=2309081833&id=cctv2
+https://cntv.sbs/tv?auth=230918&amp;id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://cntv.sbs/tv?auth=2309081833&id=cctv3
+https://cntv.sbs/tv?auth=230918&amp;id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://cntv.sbs/tv?auth=2309081833&id=cctv4
+https://cntv.sbs/tv?auth=230918&amp;id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-https://cntv.sbs/tv?auth=2309081833&id=cctv5
+https://cntv.sbs/tv?auth=230918&amp;id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://cntv.sbs/tv?auth=2309081833&id=cctv5p
+https://cntv.sbs/tv?auth=230918&amp;id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://cntv.sbs/tv?auth=2309081833&id=cctv6
+https://cntv.sbs/tv?auth=230918&amp;id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://cntv.sbs/tv?auth=2309081833&id=cctv7
+https://cntv.sbs/tv?auth=230918&amp;id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://cntv.sbs/tv?auth=2309081833&id=cctv8
+https://cntv.sbs/tv?auth=230918&amp;id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://cntv.sbs/tv?auth=2309081833&id=cctv9
+https://cntv.sbs/tv?auth=230918&amp;id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://cntv.sbs/tv?auth=2309081833&id=cctv10
+https://cntv.sbs/tv?auth=230918&amp;id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://cntv.sbs/tv?auth=2309081833&id=cctv11
+https://cntv.sbs/tv?auth=230918&amp;id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://cntv.sbs/tv?auth=2309081833&id=cctv12
+https://cntv.sbs/tv?auth=230918&amp;id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://cntv.sbs/tv?auth=2309081833&id=cctv13
+https://cntv.sbs/tv?auth=230918&amp;id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://cntv.sbs/tv?auth=2309081833&id=cctv14
+https://cntv.sbs/tv?auth=230918&amp;id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://cntv.sbs/tv?auth=2309081833&id=cctv15
+https://cntv.sbs/tv?auth=230918&amp;id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-https://cntv.sbs/tv?auth=2309081833&id=cctv16
+https://cntv.sbs/tv?auth=230918&amp;id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://cntv.sbs/tv?auth=2309081833&id=cctv17
+https://cntv.sbs/tv?auth=230918&amp;id=cctv17
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=2309081833&id=cctv4k
+https://cntv.sbs/tv?auth=230918&amp;id=cctv4k
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
-https://cntv.sbs/tv?auth=2309081833&id=cctv164k
+https://cntv.sbs/tv?auth=230918&amp;id=cctv164k
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://cntv.sbs/tv?auth=2309081833&id=bjws
+https://cntv.sbs/tv?auth=230918&amp;id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://cntv.sbs/tv?auth=2309081833&id=dfws
+https://cntv.sbs/tv?auth=230918&amp;id=dfws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://cntv.sbs/tv?auth=2309081833&id=tjws
+https://cntv.sbs/tv?auth=230918&amp;id=tjws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://cntv.sbs/tv?auth=2309081833&id=cqws
+https://cntv.sbs/tv?auth=230918&amp;id=cqws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=hljws
+https://cntv.sbs/tv?auth=230918&amp;id=hljws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://cntv.sbs/tv?auth=2309081833&id=jlws
+https://cntv.sbs/tv?auth=230918&amp;id=jlws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://cntv.sbs/tv?auth=2309081833&id=lnws
+https://cntv.sbs/tv?auth=230918&amp;id=lnws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://cntv.sbs/tv?auth=2309081833&id=nmws
+https://cntv.sbs/tv?auth=230918&amp;id=nmws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://cntv.sbs/tv?auth=2309081833&id=nxws
+https://cntv.sbs/tv?auth=230918&amp;id=nxws
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://cntv.sbs/tv?auth=2309081833&id=gsws
+https://cntv.sbs/tv?auth=230918&amp;id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://cntv.sbs/tv?auth=2309081833&id=qhws
+https://cntv.sbs/tv?auth=230918&amp;id=qhws
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxws
+https://cntv.sbs/tv?auth=230918&amp;id=sxws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hbws
+https://cntv.sbs/tv?auth=230918&amp;id=hbws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxiws
+https://cntv.sbs/tv?auth=230918&amp;id=sxiws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://cntv.sbs/tv?auth=2309081833&id=sdws
+https://cntv.sbs/tv?auth=230918&amp;id=sdws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://cntv.sbs/tv?auth=2309081833&id=ahws
+https://cntv.sbs/tv?auth=230918&amp;id=ahws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hnws
+https://cntv.sbs/tv?auth=230918&amp;id=hnws
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hubws
+https://cntv.sbs/tv?auth=230918&amp;id=hubws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hunws
+https://cntv.sbs/tv?auth=230918&amp;id=hunws
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://cntv.sbs/tv?auth=2309081833&id=jxws
+https://cntv.sbs/tv?auth=230918&amp;id=jxws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://cntv.sbs/tv?auth=2309081833&id=jsws
+https://cntv.sbs/tv?auth=230918&amp;id=jsws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=zjws
+https://cntv.sbs/tv?auth=230918&amp;id=zjws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://cntv.sbs/tv?auth=2309081833&id=dnws
+https://cntv.sbs/tv?auth=230918&amp;id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-https://cntv.sbs/tv?auth=2309081833&id=xmws
+https://cntv.sbs/tv?auth=230918&amp;id=xmws
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://cntv.sbs/tv?auth=2309081833&id=gdws
+https://cntv.sbs/tv?auth=230918&amp;id=gdws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://cntv.sbs/tv?auth=2309081833&id=szws
+https://cntv.sbs/tv?auth=230918&amp;id=szws
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://cntv.sbs/tv?auth=2309081833&id=gxws
+https://cntv.sbs/tv?auth=230918&amp;id=gxws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://cntv.sbs/tv?auth=2309081833&id=ynws
+https://cntv.sbs/tv?auth=230918&amp;id=ynws
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://cntv.sbs/tv?auth=2309081833&id=gzws
+https://cntv.sbs/tv?auth=230918&amp;id=gzws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://cntv.sbs/tv?auth=2309081833&id=scws
+https://cntv.sbs/tv?auth=230918&amp;id=scws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-https://cntv.sbs/tv?auth=2309081833&id=kbws
+https://cntv.sbs/tv?auth=230918&amp;id=kbws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://cntv.sbs/tv?auth=2309081833&id=xjws
+https://cntv.sbs/tv?auth=230918&amp;id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://cntv.sbs/tv?auth=2309081833&id=btws
+https://cntv.sbs/tv?auth=230918&amp;id=btws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://cntv.sbs/tv?auth=2309081833&id=xzws
+https://cntv.sbs/tv?auth=230918&amp;id=xzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hinws
+https://cntv.sbs/tv?auth=230918&amp;id=hinws
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://cntv.sbs/tv?auth=2309081833&id=ssws
+https://cntv.sbs/tv?auth=230918&amp;id=ssws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.sbs/tv?auth=2309081833&id=hxws
+https://cntv.sbs/tv?auth=230918&amp;id=hxws
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.sbs/tv?auth=2309081833&id=bjjskj group-title="央视",CCTV1 综合
-https://cntv.sbs/tv?auth=2309081833&id=cctv1
+https://cntv.sbs/tv?auth=230918&amp;id=bjjskj group-title="央视",CCTV1 综合
+https://cntv.sbs/tv?auth=230918&amp;id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2 财经
-https://cntv.sbs/tv?auth=2309081833&id=cctv2
+https://cntv.sbs/tv?auth=230918&amp;id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3 综艺
-https://cntv.sbs/tv?auth=2309081833&id=cctv3
+https://cntv.sbs/tv?auth=230918&amp;id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4 中文国际
-https://cntv.sbs/tv?auth=2309081833&id=cctv4
+https://cntv.sbs/tv?auth=230918&amp;id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5 体育
-https://cntv.sbs/tv?auth=2309081833&id=cctv5
+https://cntv.sbs/tv?auth=230918&amp;id=cctv5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+ 体育赛事
-https://cntv.sbs/tv?auth=2309081833&id=cctv5p
+https://cntv.sbs/tv?auth=230918&amp;id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://cntv.sbs/tv?auth=2309081833&id=cctv6
+https://cntv.sbs/tv?auth=230918&amp;id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://cntv.sbs/tv?auth=2309081833&id=cctv7
+https://cntv.sbs/tv?auth=230918&amp;id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8 电视剧
-https://cntv.sbs/tv?auth=2309081833&id=cctv8
+https://cntv.sbs/tv?auth=230918&amp;id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9 纪录
-https://cntv.sbs/tv?auth=2309081833&id=cctv9
+https://cntv.sbs/tv?auth=230918&amp;id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10 科教
-https://cntv.sbs/tv?auth=2309081833&id=cctv10
+https://cntv.sbs/tv?auth=230918&amp;id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11 戏曲
-https://cntv.sbs/tv?auth=2309081833&id=cctv11
+https://cntv.sbs/tv?auth=230918&amp;id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12 社会与法
-https://cntv.sbs/tv?auth=2309081833&id=cctv12
+https://cntv.sbs/tv?auth=230918&amp;id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13 新闻
-https://cntv.sbs/tv?auth=2309081833&id=cctv13
+https://cntv.sbs/tv?auth=230918&amp;id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14 少儿
-https://cntv.sbs/tv?auth=2309081833&id=cctv14
+https://cntv.sbs/tv?auth=230918&amp;id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15 音乐
-https://cntv.sbs/tv?auth=2309081833&id=cctv15
+https://cntv.sbs/tv?auth=230918&amp;id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16 奥林匹克
-https://cntv.sbs/tv?auth=2309081833&id=cctv16
+https://cntv.sbs/tv?auth=230918&amp;id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17 农业农村
-https://cntv.sbs/tv?auth=2309081833&id=cctv17
+https://cntv.sbs/tv?auth=230918&amp;id=cctv17
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K 超高清
-https://cntv.sbs/tv?auth=2309081833&id=cctv4k
+https://cntv.sbs/tv?auth=230918&amp;id=cctv4k
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16 4K
-https://cntv.sbs/tv?auth=2309081833&id=cctv164k
+https://cntv.sbs/tv?auth=230918&amp;id=cctv164k
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://cntv.sbs/tv?auth=2309081833&id=bjws
+https://cntv.sbs/tv?auth=230918&amp;id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://cntv.sbs/tv?auth=2309081833&id=dfws
+https://cntv.sbs/tv?auth=230918&amp;id=dfws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://cntv.sbs/tv?auth=2309081833&id=tjws
+https://cntv.sbs/tv?auth=230918&amp;id=tjws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://cntv.sbs/tv?auth=2309081833&id=cqws
+https://cntv.sbs/tv?auth=230918&amp;id=cqws
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=hljws
+https://cntv.sbs/tv?auth=230918&amp;id=hljws
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://cntv.sbs/tv?auth=2309081833&id=jlws
+https://cntv.sbs/tv?auth=230918&amp;id=jlws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://cntv.sbs/tv?auth=2309081833&id=lnws
+https://cntv.sbs/tv?auth=230918&amp;id=lnws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://cntv.sbs/tv?auth=2309081833&id=nmws
+https://cntv.sbs/tv?auth=230918&amp;id=nmws
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://cntv.sbs/tv?auth=2309081833&id=nxws
+https://cntv.sbs/tv?auth=230918&amp;id=nxws
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://cntv.sbs/tv?auth=2309081833&id=gsws
+https://cntv.sbs/tv?auth=230918&amp;id=gsws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://cntv.sbs/tv?auth=2309081833&id=qhws
+https://cntv.sbs/tv?auth=230918&amp;id=qhws
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxws
+https://cntv.sbs/tv?auth=230918&amp;id=sxws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hbws
+https://cntv.sbs/tv?auth=230918&amp;id=hbws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-https://cntv.sbs/tv?auth=2309081833&id=sxiws
+https://cntv.sbs/tv?auth=230918&amp;id=sxiws
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://cntv.sbs/tv?auth=2309081833&id=sdws
+https://cntv.sbs/tv?auth=230918&amp;id=sdws
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://cntv.sbs/tv?auth=2309081833&id=ahws
+https://cntv.sbs/tv?auth=230918&amp;id=ahws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hnws
+https://cntv.sbs/tv?auth=230918&amp;id=hnws
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://cntv.sbs/tv?auth=2309081833&id=hubws
+https://cntv.sbs/tv?auth=230918&amp;id=hubws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hunws
+https://cntv.sbs/tv?auth=230918&amp;id=hunws
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://cntv.sbs/tv?auth=2309081833&id=jxws
+https://cntv.sbs/tv?auth=230918&amp;id=jxws
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://cntv.sbs/tv?auth=2309081833&id=jsws
+https://cntv.sbs/tv?auth=230918&amp;id=jsws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://cntv.sbs/tv?auth=2309081833&id=zjws
+https://cntv.sbs/tv?auth=230918&amp;id=zjws
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://cntv.sbs/tv?auth=2309081833&id=dnws
+https://cntv.sbs/tv?auth=230918&amp;id=dnws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-https://cntv.sbs/tv?auth=2309081833&id=xmws
+https://cntv.sbs/tv?auth=230918&amp;id=xmws
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://cntv.sbs/tv?auth=2309081833&id=gdws
+https://cntv.sbs/tv?auth=230918&amp;id=gdws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://cntv.sbs/tv?auth=2309081833&id=szws
+https://cntv.sbs/tv?auth=230918&amp;id=szws
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://cntv.sbs/tv?auth=2309081833&id=gxws
+https://cntv.sbs/tv?auth=230918&amp;id=gxws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://cntv.sbs/tv?auth=2309081833&id=ynws
+https://cntv.sbs/tv?auth=230918&amp;id=ynws
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://cntv.sbs/tv?auth=2309081833&id=gzws
+https://cntv.sbs/tv?auth=230918&amp;id=gzws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://cntv.sbs/tv?auth=2309081833&id=scws
+https://cntv.sbs/tv?auth=230918&amp;id=scws
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-https://cntv.sbs/tv?auth=2309081833&id=kbws
+https://cntv.sbs/tv?auth=230918&amp;id=kbws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-https://cntv.sbs/tv?auth=2309081833&id=xjws
+https://cntv.sbs/tv?auth=230918&amp;id=xjws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://cntv.sbs/tv?auth=2309081833&id=btws
+https://cntv.sbs/tv?auth=230918&amp;id=btws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-https://cntv.sbs/tv?auth=2309081833&id=xzws
+https://cntv.sbs/tv?auth=230918&amp;id=xzws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://cntv.sbs/tv?auth=2309081833&id=hinws
+https://cntv.sbs/tv?auth=230918&amp;id=hinws
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-https://cntv.sbs/tv?auth=2309081833&id=ssws
+https://cntv.sbs/tv?auth=230918&amp;id=ssws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.sbs/tv?auth=2309081833&id=hxws
+https://cntv.sbs/tv?auth=230918&amp;id=hxws
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://cntv.sbs/tv?auth=2309081833&id=bjjskj
+https://cntv.sbs/tv?auth=230918&amp;id=bjjskj
 
 #EXTINF:-1 tvg-id="雷歌==测试" tvg-name="雷歌==测试" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="=投稿=",雷歌==测试
 https://alimov2.a.kwimgs.com/upic/2023/05/17/10/BMjAyMzA1MTcxMDAwNDZfNTIzMzc1NDc3XzEwMzI2MjE1NTQyNF8wXzM=_b_B9c592ab2d1ce4027530f9efaedce715b.mp4
@@ -252,26 +252,26 @@ https://vd4.bdstatic.com/mda-peb8kr7seeh4w5su/hd/cae_h264/1683947071269600562/md
 ##
 
 🇨🇳｜央视,#genre#
-CCTV1 综合,https://cntv.sbs/tv?auth=2309081833&id=cctv1
-CCTV2 财经,https://cntv.sbs/tv?auth=2309081833&id=cctv2
-CCTV3 综艺,https://cntv.sbs/tv?auth=2309081833&id=cctv3
-CCTV4 中文国际,https://cntv.sbs/tv?auth=2309081833&id=cctv4
-CCTV5 体育,https://cntv.sbs/tv?auth=2309081833&id=cctv5
-CCTV5+ 体育赛事,https://cntv.sbs/tv?auth=2309081833&id=cctv5p
-CCTV6 电影,https://cntv.sbs/tv?auth=2309081833&id=cctv6
-CCTV7 国防军事,https://cntv.sbs/tv?auth=2309081833&id=cctv7
-CCTV8 电视剧,https://cntv.sbs/tv?auth=2309081833&id=cctv8
-CCTV9 纪录,https://cntv.sbs/tv?auth=2309081833&id=cctv9
-CCTV10 科教,https://cntv.sbs/tv?auth=2309081833&id=cctv10
-CCTV11 戏曲,https://cntv.sbs/tv?auth=2309081833&id=cctv11
-CCTV12 社会与法,https://cntv.sbs/tv?auth=2309081833&id=cctv12
-CCTV13 新闻,https://cntv.sbs/tv?auth=2309081833&id=cctv13
-CCTV14 少儿,https://cntv.sbs/tv?auth=2309081833&id=cctv14
-CCTV15 音乐,https://cntv.sbs/tv?auth=2309081833&id=cctv15
-CCTV16 奥林匹克,https://cntv.sbs/tv?auth=2309081833&id=cctv16
-CCTV17 农业农村,https://cntv.sbs/tv?auth=2309081833&id=cctv17
-CCTV4K 超高清,https://cntv.sbs/tv?auth=2309081833&id=cctv4k
-CCTV16 4K,https://cntv.sbs/tv?auth=2309081833&id=cctv164k
+CCTV1 综合,https://cntv.sbs/tv?auth=230918&amp;id=cctv1
+CCTV2 财经,https://cntv.sbs/tv?auth=230918&amp;id=cctv2
+CCTV3 综艺,https://cntv.sbs/tv?auth=230918&amp;id=cctv3
+CCTV4 中文国际,https://cntv.sbs/tv?auth=230918&amp;id=cctv4
+CCTV5 体育,https://cntv.sbs/tv?auth=230918&amp;id=cctv5
+CCTV5+ 体育赛事,https://cntv.sbs/tv?auth=230918&amp;id=cctv5p
+CCTV6 电影,https://cntv.sbs/tv?auth=230918&amp;id=cctv6
+CCTV7 国防军事,https://cntv.sbs/tv?auth=230918&amp;id=cctv7
+CCTV8 电视剧,https://cntv.sbs/tv?auth=230918&amp;id=cctv8
+CCTV9 纪录,https://cntv.sbs/tv?auth=230918&amp;id=cctv9
+CCTV10 科教,https://cntv.sbs/tv?auth=230918&amp;id=cctv10
+CCTV11 戏曲,https://cntv.sbs/tv?auth=230918&amp;id=cctv11
+CCTV12 社会与法,https://cntv.sbs/tv?auth=230918&amp;id=cctv12
+CCTV13 新闻,https://cntv.sbs/tv?auth=230918&amp;id=cctv13
+CCTV14 少儿,https://cntv.sbs/tv?auth=230918&amp;id=cctv14
+CCTV15 音乐,https://cntv.sbs/tv?auth=230918&amp;id=cctv15
+CCTV16 奥林匹克,https://cntv.sbs/tv?auth=230918&amp;id=cctv16
+CCTV17 农业农村,https://cntv.sbs/tv?auth=230918&amp;id=cctv17
+CCTV4K 超高清,https://cntv.sbs/tv?auth=230918&amp;id=cctv4k
+CCTV16 4K,https://cntv.sbs/tv?auth=230918&amp;id=cctv164k
 
 CCTV1 综合,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV1 综合,http://tvpull.dxhmt.cn/tv/11481-3.m3u8
@@ -649,44 +649,44 @@ CCTV16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 
 🇨🇳｜卫视,#genre#
 
-北京卫视,https://cntv.sbs/tv?auth=2309081833&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=2309081833&id=dfws
-天津卫视,https://cntv.sbs/tv?auth=2309081833&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=2309081833&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=2309081833&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=2309081833&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=2309081833&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=2309081833&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=2309081833&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=2309081833&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=2309081833&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=2309081833&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=2309081833&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=2309081833&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=2309081833&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=2309081833&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=2309081833&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=2309081833&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=2309081833&id=hunws
-江西卫视,https://cntv.sbs/tv?auth=2309081833&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=2309081833&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=2309081833&id=zjws
-东南卫视,https://cntv.sbs/tv?auth=2309081833&id=dnws
-厦门卫视,https://cntv.sbs/tv?auth=2309081833&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=2309081833&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=2309081833&id=szws
-广西卫视,https://cntv.sbs/tv?auth=2309081833&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=2309081833&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=2309081833&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=2309081833&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=2309081833&id=kbws
-新疆卫视,https://cntv.sbs/tv?auth=2309081833&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=2309081833&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=2309081833&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=2309081833&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=2309081833&id=ssws
-海峡卫视,https://cntv.sbs/tv?auth=2309081833&id=hxws
-北京纪实科教,https://cntv.sbs/tv?auth=2309081833&id=bjjskj
+北京卫视,https://cntv.sbs/tv?auth=230918&amp;id=bjws
+东方卫视,https://cntv.sbs/tv?auth=230918&amp;id=dfws
+天津卫视,https://cntv.sbs/tv?auth=230918&amp;id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=230918&amp;id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=230918&amp;id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=230918&amp;id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=230918&amp;id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=230918&amp;id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=230918&amp;id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=230918&amp;id=gsws
+青海卫视,https://cntv.sbs/tv?auth=230918&amp;id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=230918&amp;id=sxws
+河北卫视,https://cntv.sbs/tv?auth=230918&amp;id=hbws
+山西卫视,https://cntv.sbs/tv?auth=230918&amp;id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=230918&amp;id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=230918&amp;id=ahws
+河南卫视,https://cntv.sbs/tv?auth=230918&amp;id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=230918&amp;id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=230918&amp;id=hunws
+江西卫视,https://cntv.sbs/tv?auth=230918&amp;id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=230918&amp;id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=230918&amp;id=zjws
+东南卫视,https://cntv.sbs/tv?auth=230918&amp;id=dnws
+厦门卫视,https://cntv.sbs/tv?auth=230918&amp;id=xmws
+广东卫视,https://cntv.sbs/tv?auth=230918&amp;id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=230918&amp;id=szws
+广西卫视,https://cntv.sbs/tv?auth=230918&amp;id=gxws
+云南卫视,https://cntv.sbs/tv?auth=230918&amp;id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=230918&amp;id=gzws
+四川卫视,https://cntv.sbs/tv?auth=230918&amp;id=scws
+康巴卫视,https://cntv.sbs/tv?auth=230918&amp;id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=230918&amp;id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=230918&amp;id=btws
+西藏卫视,https://cntv.sbs/tv?auth=230918&amp;id=xzws
+海南卫视,https://cntv.sbs/tv?auth=230918&amp;id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=230918&amp;id=ssws
+海峡卫视,https://cntv.sbs/tv?auth=230918&amp;id=hxws
+北京纪实科教,https://cntv.sbs/tv?auth=230918&amp;id=bjjskj
 
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -792,29 +792,29 @@ CCTV16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 
 👶｜其他,#genre#
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他",哈哈炫动
-https://cntv.sbs/tv?auth=2309081833&id=hhxd
+https://cntv.sbs/tv?auth=230918&amp;id=hhxd
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场
-https://cntv.sbs/tv?auth=2309081833&id=hxjc
+https://cntv.sbs/tv?auth=230918&amp;id=hxjc
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="其他",都市剧场
-https://cntv.sbs/tv?auth=2309081833&id=dsjc
+https://cntv.sbs/tv?auth=230918&amp;id=dsjc
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
-https://cntv.sbs/tv?auth=2309081833&id=dmxc
+https://cntv.sbs/tv?auth=230918&amp;id=dmxc
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="其他",劲爆体育
-https://cntv.sbs/tv?auth=2309081833&id=jbty
+https://cntv.sbs/tv?auth=230918&amp;id=jbty
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="其他",新视觉
-https://cntv.sbs/tv?auth=2309081833&id=xsj
+https://cntv.sbs/tv?auth=230918&amp;id=xsj
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
-https://cntv.sbs/tv?auth=2309081833&id=yxfy
+https://cntv.sbs/tv?auth=230918&amp;id=yxfy
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游
-https://cntv.sbs/tv?auth=2309081833&id=qjs
+https://cntv.sbs/tv?auth=230918&amp;id=qjs
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他",魅力足球
-https://cntv.sbs/tv?auth=2309081833&id=mlzq
+https://cntv.sbs/tv?auth=230918&amp;id=mlzq
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他",嘉佳卡通
-https://cntv.sbs/tv?auth=2309081833&id=jjkt
+https://cntv.sbs/tv?auth=230918&amp;id=jjkt
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他",财富天下
-https://cntv.sbs/tv?auth=2309081833&id=cftx
+https://cntv.sbs/tv?auth=230918&amp;id=cftx
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
-https://cntv.sbs/tv?auth=2309081833&id=zgtq
+https://cntv.sbs/tv?auth=230918&amp;id=zgtq
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
@@ -829,22 +829,22 @@ https://cntv.sbs/tv?auth=2309081833&id=zgtq
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
-看天下精选,https://cntv.sbs/tv?auth=2309081833&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=2309081833&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2309081833&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2309081833&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2309081833&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2309081833&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2309081833&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2309081833&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2309081833&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2309081833&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=2309081833&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=2309081833&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2309081833&id=bbdh
+看天下精选,https://cntv.sbs/tv?auth=230918&amp;id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=230918&amp;id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=230918&amp;id=djtt
+青春动漫,https://cntv.sbs/tv?auth=230918&amp;id=qcdm
+星光影院,https://cntv.sbs/tv?auth=230918&amp;id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=230918&amp;id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230918&amp;id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=230918&amp;id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230918&amp;id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=230918&amp;id=xqjx
+健康养生,https://cntv.sbs/tv?auth=230918&amp;id=jkys
+百变课堂,https://cntv.sbs/tv?auth=230918&amp;id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=230918&amp;id=bbdh
 
 🌍｜全球,#genre#
-CGTN,https://cntv.sbs/tv?auth=2309081833&id=cgtn
+CGTN,https://cntv.sbs/tv?auth=230918&amp;id=cgtn
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
